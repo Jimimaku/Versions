@@ -12,7 +12,7 @@
     "env_add_path": ".",
     "checkver": {
         "github": "https://github.com/ggml-org/llama.cpp",
-        "regex": "/releases/tag/(b[\\d]+)"
+        "regex": "(b[\\d]+)"
     },
     "autoupdate": {
         "architecture": {
